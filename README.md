@@ -28,33 +28,44 @@ Another awesome project to make the world a better place.
 
 ## ⚡️ Introduction
 
-Introduce your project, what problem you are trying to solve, what makes it unique, sell it to me.
+This is a simple Machine learning project made using logistic regression model.
+It classifies every example email body into either "Ham" or "Spam".
 
 Add screenshot or gif.
 
 ## 🎯 Features
 
-- Robust routing
-- Serve static files
-- Extreme performance
-- Low memory footprint
-- API endpoints
-- And much more, explore SpamClassifier
+- Uses Tokenization
+- Porter Stemming
+- F1 score of 0.96
 
 ## ⚙️ Installation
 
-Make sure you have [Node.js](https://nodejs.org/en/download/) installed.
-Run this followed commands:
+Make sure you have latest version of python installed.
+Run this followed commands if using pip:
 
 ```bash
-# Install dependencies (only the first time)
-npm install
+# Making sure you have latest version of pip
+pip3 install --upgrade pip
 
-# Run the local server at localhost:8080
-npm run dev
+# Installing jupyter notebook
+pip3 install jupyter
 
-# Build for production in the dist/ directory
-npm run build
+```
+
+Run this followed commands if using anaconda installer:
+
+```bash
+1. Download Anaconda. We recommend downloading Anaconda’s latest Python 3 version (currently Python 3.7).
+
+2. Install the version of Anaconda which you downloaded, following the instructions on the download page.
+
+3. Congratulations, you have installed Jupyter Notebook.
+  To run the notebook:
+  
+  #run this command: 
+  jupyter notebook
+
 ```
 
 ## 🌱 Third Party Libraries
