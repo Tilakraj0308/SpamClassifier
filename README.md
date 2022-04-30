@@ -53,16 +53,16 @@ pip3 install jupyter
 
 ```
 
-Run this followed commands if using anaconda installer:
+If using anaconda installer:
 
-```bash
 1. Download Anaconda. We recommend downloading Anaconda’s latest Python 3 version (currently Python 3.7).
 
 2. Install the version of Anaconda which you downloaded, following the instructions on the download page.
 
 3. Congratulations, you have installed Jupyter Notebook.
   To run the notebook:
-  
+
+```bash
   #run this command: 
   jupyter notebook
 
