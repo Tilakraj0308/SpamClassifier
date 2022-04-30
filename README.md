@@ -31,7 +31,7 @@ Another awesome project to make the world a better place.
 This is a simple Machine learning project made using logistic regression model.
 It classifies every example email body into either "Ham" or "Spam".
 
-
+dataset used --> Kaggle-Spam-collection-dataset(https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 ## 🎯 Features
 
 - Uses Tokenization
