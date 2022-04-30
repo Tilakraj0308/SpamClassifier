@@ -69,7 +69,7 @@ If using anaconda installer:
 
 ## Software
 
-The packages I used to run the code in the book are listed in requirements.txt (Note that some of these exact version numbers may not be available on your platform: you may have to tweak them for your own use). To install the requirements using conda, run the following at the command-line:
+The packages I used to run the code in the book are listed in [requirements.txt](https://github.com/Tilakraj0308/SpamClassifier/blob/master/requirements.txt) (Note that some of these exact version numbers may not be available on your platform: you may have to tweak them for your own use). To install the requirements using conda, run the following at the command-line:
 
 ```bash
    #run this command:
