@@ -31,7 +31,6 @@ Another awesome project to make the world a better place.
 This is a simple Machine learning project made using logistic regression model.
 It classifies every example email body into either "Ham" or "Spam".
 
-Add screenshot or gif.
 
 ## 🎯 Features
 
@@ -68,27 +67,23 @@ If using anaconda installer:
 
 ```
 
+## Software
+
+The packages I used to run the code in the book are listed in requirements.txt (Note that some of these exact version numbers may not be available on your platform: you may have to tweak them for your own use). To install the requirements using conda, run the following at the command-line:
+
+```bash
+   #run this command:
+   $ conda install --file requirements.txt
+```
+
 ## 🌱 Third Party Libraries
 
-- [vercel/next.js](https://github.com/vercel/next.js)
-- [facebook/react](https://github.com/facebook/react)
-- [facebook/jest](https://github.com/facebook/jest)
-- [expressjs/express](https://github.com/expressjs/express)
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-
-## 📚️ Roadmap
-
-- [ ] Define the endpoints, structure and parameters for the API.
-- [ ] Create the new branding and visual toolkit within Figma.
-- [ ] Update On-Demand Cloud dashboard and add usage-based pricing.
+- [matplotlib](https://github.com/matplotlib/matplotlib)
+- [nltk](https://github.com/nltk/nltk)
+- [numpy](https://github.com/numpy/numpy)
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 
 
-## ❤️ Acknowledgements
-
-- [fiber](https://github.com/gofiber/fiber)
-- [leerob](https://github.com/leerob/leerob.io)
-- [flaviocopes](https://github.com/flaviocopes)
 
 ## ‎‍💻 Author
 
@@ -100,9 +95,9 @@ If you want to say thank you and/or support the active development of SpamClassi
 
 1. Add a GitHub Star to the project.
 2. Tweet about the project on your Twitter.
-3. Write a review or tutorial on Medium, Dev.to or personal blog.
+3. Write a review mail at tilakraj7050@gmail.com.
 4. Support the project by donating a cup of coffee.
 
 ## 🧾 License
 
-MIT License Copyright (c) 2022 [John Doe](https://github.com/Tilakraj0308).
+MIT license Copyright (c) 2022 [Tilak raj](https://github.com/Tilakraj0308).
