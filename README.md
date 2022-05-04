@@ -28,7 +28,7 @@ Another awesome project to make the world a better place.
 
 ## ⚡️ Introduction
 
-This is a simple Machine learning project made using logistic regression model.
+This is a simple Machine learning project made using Multilayer Perceptron (Neural Network).
 It classifies every example email body into either "Ham" or "Spam".
 
 dataset used --> [Kaggle-Spam-collection-dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
@@ -36,7 +36,8 @@ dataset used --> [Kaggle-Spam-collection-dataset](https://www.kaggle.com/dataset
 
 - Uses Tokenization
 - Porter Stemming
-- F1 score of 0.96
+- No Stopwords
+- F1 score of 0.98
 
 ## ⚙️ Installation
 
